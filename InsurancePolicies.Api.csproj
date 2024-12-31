@@ -7,6 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="InsurancePolicies.Application\**" />
+    <Compile Remove="InsurancePolicies.Domain\**" />
+    <Compile Remove="InsurancePolicies.Infrastructure\**" />
+    <Content Remove="InsurancePolicies.Application\**" />
+    <Content Remove="InsurancePolicies.Domain\**" />
+    <Content Remove="InsurancePolicies.Infrastructure\**" />
+    <EmbeddedResource Remove="InsurancePolicies.Application\**" />
+    <EmbeddedResource Remove="InsurancePolicies.Domain\**" />
+    <EmbeddedResource Remove="InsurancePolicies.Infrastructure\**" />
+    <None Remove="InsurancePolicies.Application\**" />
+    <None Remove="InsurancePolicies.Domain\**" />
+    <None Remove="InsurancePolicies.Infrastructure\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Dapper" Version="2.1.35" />
     <PackageReference Include="dbup" Version="5.0.41" />
     <PackageReference Include="dbup-core" Version="6.0.4" />

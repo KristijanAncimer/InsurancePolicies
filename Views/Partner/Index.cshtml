@@ -279,6 +279,9 @@
                     localStorage.removeItem('lastAddedPartnerId');
                 }
             }
+            $('#addPartnerModal').on('click', '.btn-secondary', function () {
+                $('#addPartnerModal').modal('hide');
+            });
         });
     </script>
 
