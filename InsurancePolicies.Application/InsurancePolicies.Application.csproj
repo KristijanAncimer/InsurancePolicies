@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="dbup" Version="5.0.41" />
+    <PackageReference Include="dbup-core" Version="6.0.4" />
+    <PackageReference Include="dbup-sqlserver" Version="6.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InsurancePolicies.Domain\InsurancePolicies.Domain.csproj" />
+    <ProjectReference Include="..\InsurancePolicies.Infrastructure\InsurancePolicies.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

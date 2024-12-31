@@ -1,0 +1,17 @@
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Application.deps.json
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Application.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Application.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Domain.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Infrastructure.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Domain.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\bin\Debug\net8.0\InsurancePolicies.Infrastructure.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.csproj.AssemblyReference.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.AssemblyInfoInputs.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.AssemblyInfo.cs
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.csproj.CoreCompileInputs.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\Insuranc.133BF7F5.Up2Date
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\refint\InsurancePolicies.Application.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\InsurancePolicies.Application.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Application\obj\Debug\net8.0\ref\InsurancePolicies.Application.dll

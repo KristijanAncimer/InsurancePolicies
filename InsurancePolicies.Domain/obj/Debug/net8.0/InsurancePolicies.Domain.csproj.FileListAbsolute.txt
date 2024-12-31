@@ -1,0 +1,12 @@
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.deps.json
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\bin\Debug\net8.0\InsurancePolicies.Domain.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.csproj.AssemblyReference.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.AssemblyInfoInputs.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.AssemblyInfo.cs
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\refint\InsurancePolicies.Domain.dll
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\InsurancePolicies.Domain.pdb
+C:\Users\kristijan\source\repos\InsurancePolicies.Domain\obj\Debug\net8.0\ref\InsurancePolicies.Domain.dll
